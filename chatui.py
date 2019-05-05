@@ -22,7 +22,7 @@ def get_response(msg):
             }
         },
         "userInfo": {
-            "apiKey": "3850d0ff7176426d9ed6a9bb93ff8b02",
+            "apiKey": "yourapikey",
             "userId": 19990706
         }
     }
